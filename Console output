@@ -1,0 +1,413 @@
+CLUB MANAGEMENT SYSTEM OUTPUT
+----- CLUB MANAGEMENT SYSTEM -----
+
+1. Explore Clubs
+
+2. Register New Club
+
+3. Login as Participant
+
+4. Create Student ID
+
+5. Login as Member
+
+6. Create Member ID
+
+7. Exit
+
+Enter your choice: 1
+
+No clubs registered yet.
+
+
+
+----- CLUB MANAGEMENT SYSTEM -----
+
+1. Explore Clubs
+
+2. Register New Club
+
+3. Login as Participant
+
+4. Create Student ID
+
+5. Login as Member
+
+6. Create Member ID
+
+7. Exit
+
+Enter your choice: 2
+
+Enter Club Name: Code Club
+
+Enter Creator Name: Saniya Patil
+
+Enter Your Designation/Post: Third Year Computer Engineering Student
+
+Club 'Code Club' registered successfully.
+
+
+
+----- CLUB MANAGEMENT SYSTEM -----
+
+1. Explore Clubs
+
+2. Register New Club
+
+3. Login as Participant
+
+4. Create Student ID
+
+5. Login as Member
+
+6. Create Member ID
+
+7. Exit
+
+Enter your choice: 2
+
+Enter Club Name: INSIA(Dance Club)
+
+Enter Creator Name: Samiksha Shinde
+
+Enter Your Designation/Post: Fourth Year Mechanical Student
+
+Club 'INSIA(Dance Club)' registered successfully.
+
+
+
+----- CLUB MANAGEMENT SYSTEM -----
+
+1. Explore Clubs
+
+2. Register New Club
+
+3. Login as Participant
+
+4. Create Student ID
+
+5. Login as Member
+
+6. Create Member ID
+
+7. Exit
+
+Enter your choice: 2
+
+Enter Club Name: TEDX
+
+Enter Creator Name: Prapti Chaturvedi
+
+Enter Your Designation/Post: Third Year Mechanical Student
+
+Club 'TEDX' registered successfully.
+
+
+
+----- CLUB MANAGEMENT SYSTEM -----
+
+1. Explore Clubs
+
+2. Register New Club
+
+3. Login as Participant
+
+4. Create Student ID
+
+5. Login as Member
+
+6. Create Member ID
+
+7. Exit
+
+Enter your choice: 3
+
+Enter Student ID: SnehaP@123
+
+Student ID not found.
+
+
+
+----- CLUB MANAGEMENT SYSTEM -----
+
+1. Explore Clubs
+
+2. Register New Club
+
+3. Login as Participant
+
+4. Create Student ID
+
+5. Login as Member
+
+6. Create Member ID
+
+7. Exit
+
+Enter your choice: 4
+
+Enter Name: SnehaP@123
+
+Enter Contact (10 digits): 8234890176
+
+Enter Email: SnehaPandit7354@gmail.com
+
+Create Student ID: SnehaP@123
+
+Set Strong Password: happy#143
+
+ Student ID created successfully! You can now log in as a participant.
+
+
+
+----- CLUB MANAGEMENT SYSTEM -----
+
+1. Explore Clubs
+
+2. Register New Club
+
+3. Login as Participant
+
+4. Create Student ID
+
+5. Login as Member
+
+6. Create Member ID
+
+7. Exit
+
+Enter your choice: 4
+
+Enter Name: Apoorva Mane
+
+Enter Contact (10 digits): 9263817452
+
+Enter Email: ApoorvaMane@gmail.com
+
+Create Student ID: ApoorvaM432
+
+Set Strong Password: Apporva#000
+
+ Student ID created successfully! You can now log in as a participant.
+
+
+
+----- CLUB MANAGEMENT SYSTEM -----
+
+1. Explore Clubs
+
+2. Register New Club
+
+3. Login as Participant
+
+4. Create Student ID
+
+5. Login as Member
+
+6. Create Member ID
+
+7. Exit
+
+Enter your choice: 5
+
+Enter Member ID: ShravaniP@123
+
+Member ID not found.
+
+
+
+----- CLUB MANAGEMENT SYSTEM -----
+
+1. Explore Clubs
+
+2. Register New Club
+
+3. Login as Participant
+
+4. Create Student ID
+
+5. Login as Member
+
+6. Create Member ID
+
+7. Exit
+
+Enter your choice: 6
+
+Available Clubs:
+
+1. Code Club
+
+2. INSIA(Dance Club)
+
+3. TEDX
+
+Enter club number to join: 2
+
+Enter your Member ID: ShravaniP@123
+
+Enter your Name: Shravani Patil
+
+Enter your Contact: 9273645104
+
+Enter your Email: ShravaniPatil@gmail.com
+
+Set Strong Password: Shravani@6457
+
+Member added successfully.
+
+You’ve successfully joined the club: INSIA(Dance Club)
+
+
+
+----- CLUB MANAGEMENT SYSTEM -----
+
+1. Explore Clubs
+
+2. Register New Club
+
+3. Login as Participant
+
+4. Create Student ID
+
+5. Login as Member
+
+6. Create Member ID
+
+7. Exit
+
+Enter your choice: 5
+
+Enter Member ID: ShravaniP@123
+
+Member ID not found.
+
+
+
+----- CLUB MANAGEMENT SYSTEM -----
+
+1. Explore Clubs
+
+2. Register New Club
+
+3. Login as Participant
+
+4. Create Student ID
+
+5. Login as Member
+
+6. Create Member ID
+
+7. Exit
+
+Enter your choice: 3
+
+Enter Student ID: SnehaP@123
+
+Enter Password: happy#143
+
+
+
+--- Welcome SnehaP@123 ---
+
+1. View Registered Events
+
+2. View Upcoming Events
+
+3. Register for Event
+
+4. Logout
+
+Choice: 4
+
+
+
+----- CLUB MANAGEMENT SYSTEM -----
+
+1. Explore Clubs
+
+2. Register New Club
+
+3. Login as Participant
+
+4. Create Student ID
+
+5. Login as Member
+
+6. Create Member ID
+
+7. Exit
+
+Enter your choice: 6
+
+Available Clubs:
+
+1. Code Club
+
+2. INSIA(Dance Club)
+
+3. TEDX
+
+Enter club number to join: 1
+
+Enter your Member ID: Meena
+
+Enter your Name: Meena Patil
+
+Enter your Contact: 9273645103
+
+Enter your Email: MeenaPatil@gmail.com
+
+Set Strong Password: Patil@932
+
+Member added successfully.
+
+You’ve successfully joined the club: Code Club
+
+
+
+----- CLUB MANAGEMENT SYSTEM -----
+
+1. Explore Clubs
+
+2. Register New Club
+
+3. Login as Participant
+
+4. Create Student ID
+
+5. Login as Member
+
+6. Create Member ID
+
+7. Exit
+
+Enter your choice: 5
+
+Enter Member ID: Meena
+
+Member ID not found.
+
+
+
+----- CLUB MANAGEMENT SYSTEM -----
+
+1. Explore Clubs
+
+2. Register New Club
+
+3. Login as Participant
+
+4. Create Student ID
+
+5. Login as Member
+
+6. Create Member ID
+
+7. Exit
+
+Enter your choice: 7
+
+Exiting system. Goodbye!
+
